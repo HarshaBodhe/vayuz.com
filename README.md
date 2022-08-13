@@ -1,2 +1,3 @@
 # vayuz.com
-project given by vayuz for internship interview.
+Project given by vayuz for internship interview.Created using languages like HTML,CSS.
+
